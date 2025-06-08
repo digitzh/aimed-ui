@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# AiMed-UI
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 1 前言
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+[AiMed](https://github.com/digitzh/AiMed) 的UI界面，采用Node.js + Vue 3 + Vite构建。
+
+## 2 使用方法
+
+运行AiMed后，执行下面命令运行UI页面：
+```shell
+npm run dev
+```
+之后即可在(http://localhost:5173/)使用。
